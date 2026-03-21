@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Manas Arora  
 🚀 Senior Software Engineer (Android) @ Blibli | 5+ yrs | 20M+ MAU  
-💡 I build high-scale Android systems focused on **performance, scalability & reliability**  
+💡 I build high-scale Android systems focused on **performance, scalability & reliability**!  
 
 ⚡ Highlights  
 - ~90% latency improvement (Cart performance)  
