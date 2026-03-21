@@ -12,10 +12,11 @@
 🛠️ Tech  
 Android • Kotlin • Coroutines • MVVM • Jetpack • Retrofit • Room • GenAI  
 
-📫 manasarora.in@gmail.com | linkedin.com/in/manasarora18  
+📫 manasarora.in@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/manasarora18)  
 
 🎯 Beyond Code  
-I enjoy optimizing systems until milliseconds matter — and solving complex problems under tight timelines. 🚀  
+I enjoy optimizing systems until milliseconds matter — and solving complex problems under tight timelines.
 
 <!---
 manasarora18/manasarora18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
