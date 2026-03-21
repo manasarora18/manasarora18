@@ -1,84 +1,23 @@
+
 # 👋 Hi, I'm Manas Arora  
 
-### 🚀 Senior Software Engineer (Android)  
-Android • Kotlin • Performance • Scalable Systems • GenAI  
+🚀 Senior Software Engineer (Android) @ Blibli | 5+ yrs | 20M+ MAU  
 
----
+💡 I build high-scale Android systems focused on **performance, scalability & reliability**  
 
-## 💡 About Me  
+⚡ Highlights  
+- ~90% latency improvement (Cart performance)  
+- 99.97% crash-free user rate  
+- Built GenAI-powered search & voice features  
+- Worked on Cart, Checkout, Payments & Discovery at scale  
 
-I’m a **Senior Android Engineer with 5+ years of experience** building and scaling high-traffic consumer applications serving **20M+ monthly active users**.  
+🛠️ Tech  
+Android • Kotlin • Coroutines • MVVM • Jetpack • Retrofit • Room • GenAI  
 
-I specialize in **performance engineering, mobile architecture, and reliability**, working on mission-critical flows like **Cart, Checkout, Payments, and Search & Discovery**.  
+📫 manasarora.in@gmail.com | linkedin.com/in/manasarora18  
 
-- ⚡ Improved app latency by **~90% (2–3s → ~0.3s)**  
-- 📈 Maintained **99.97% crash-free user rate**  
-- 🛒 Built and scaled features used by **millions of users daily**  
-
-I enjoy solving complex engineering problems and building systems that are **fast, scalable, and reliable**.
-
----
-
-## 🛠️ Tech Stack  
-
-### 📱 Mobile  
-Android • Jetpack Compose • Kotlin Coroutines • Flow • LiveData • RxJava • ViewBinding  
-
-### 🧠 Architecture  
-MVVM • MVP • Clean Architecture • Multi-Module Architecture  
-
-### 🔌 APIs & Data  
-Retrofit • Room • REST APIs  
-
-### ⚙️ Tools  
-Android Studio • Firebase Crashlytics • Git • Jenkins • Jira • Confluence  
-
-### 🤖 Emerging Tech  
-GenAI • Google Gemini Models • On-device & Cloud ML integrations  
-
----
-
-## 🚀 Key Highlights  
-
-- 🔹 Redesigned cart architecture → **~90% performance improvement**  
-- 🔹 Led Android development for **Instant Delivery (Grocery)** flows  
-- 🔹 Built **GenAI-powered multi-search** (handwritten → digital cart)  
-- 🔹 Developed **AI-driven voice review system** using Gemini models  
-- 🔹 Owned **Product Listing & discovery flows** improving CTR & conversions  
-- 🔹 Mentored engineers and drove **high-quality production releases**  
-
----
-
-## 🤝 What I’m Looking For  
-
-I’m interested in opportunities where I can:  
-
-- Build **high-scale mobile systems**  
-- Solve **performance and architecture challenges**  
-- Work on **impactful consumer products**  
-- Contribute to **strong engineering teams**  
-
----
-
-## 📌 Featured Projects  
-
-*(Add your best Android / side projects here — even small but well-structured ones help)*  
-
-- 🔹 Project Name — short 1-line description  
-- 🔹 Project Name — short 1-line description  
-
----
-
-## 📫 Let’s Connect  
-
-- 📧 Email: **manasarora.in@gmail.com**  
-- 💼 LinkedIn: **https://linkedin.com/in/manasarora18**  
-
----
-
-## ⚡ Fun Fact  
-
-I enjoy optimizing systems until milliseconds matter — especially when it directly improves user experience at scale. 🚀
+🎯 Beyond Code  
+I enjoy optimizing systems until milliseconds matter — and solving complex problems under tight timelines. 🚀  
 
 <!---
 manasarora18/manasarora18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
