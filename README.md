@@ -11,7 +11,7 @@
 - Worked on Cart, Checkout, Payments & Discovery at scale  
 
 🛠️ Tech  
-Android • Kotlin • Coroutines • MVVM • Jetpack • Retrofit • Room • GenAI  
+Android • Kotlin • Coroutines • MVI • Compose • Flows • LiveData • MVVM • Jetpack • Retrofit • Room • GenAI  
 
 📫 manasarora.in@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/manasarora18)  
