@@ -7,7 +7,7 @@
 - ~90% latency improvement (Cart performance)  
 - 99.97% crash-free user rate  
 - Built GenAI-powered Search & Voice features
-- Delivered Instant Delivery workflow for user journey from 'Add to Cart' to 'Order' in under 1.5 months timeline.
+- Delivered Instant Delivery workflow for user journey from 'Add to Cart' to 'Order' in under 1.5 months timeline
 - Worked on Cart, Checkout, Payments & Discovery at scale  
 
 🛠️ Tech  
