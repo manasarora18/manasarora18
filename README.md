@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Manas Arora  
-🚀 Senior Software Engineer (Android) @ Blibli | 5+ yrs | 20M+ MAU  
-💡 I build high-scale Android apps focused on **performance, scalability & reliability**!  
+🚀 Senior Software Engineer (Android) @ Blibli | 6+ yrs | 20M+ MAU  
+💡 I build high-scale Android apps focused on **performance, scalability, reliability & user experience**!  
 
 ⚡ Highlights  
 - ~90% latency improvement (Cart performance)  
@@ -11,7 +11,7 @@
 - Worked on Cart, Checkout, Payments & Discovery at scale  
 
 🛠️ Tech  
-Android • Kotlin • Coroutines • MVI • Compose • Flows • LiveData • MVVM • Jetpack • Retrofit • Room • GenAI  
+Android • Kotlin • Coroutines • MVI • Compose • Flows • LiveData • MVVM • Jetpack • Retrofit • Room • GenAI • Jetpack Navigation  
 
 📫 manasarora.in@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/manasarora18)  
